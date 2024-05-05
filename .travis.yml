@@ -1,0 +1,6 @@
+language: java
+jdk:
+  - openjdk21
+script: ./mvnw clean install
+notifications:
+  email: sahu00157@gmail.com
